@@ -4,7 +4,7 @@ A chat app where you can register with your email and log in then start chating 
 
 Every user can add an image for him either from gallery or via camera.
 
-When someone send a message every user receives it instantly using cloud firesbase firestore.
+When someone send a message every user receives it instantly using cloud firebase firestore.
 
 used packages:  
 &emsp;- firebase authentication  
